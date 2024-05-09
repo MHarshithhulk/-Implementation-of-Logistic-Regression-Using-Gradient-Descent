@@ -105,6 +105,19 @@ print(y_prednew)
 
 ![324679994-1f016359-1822-4e61-a4bd-2e42b29b2193](https://github.com/gauthamkrishna7/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/141175025/8460f007-dd72-418a-a1a4-89e7c352c482)
 
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
+
 ### Categorizing columns
 ![324680196-803932f9-6766-466c-b982-4a5d4a7f8116](https://github.com/gauthamkrishna7/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/141175025/c3b56cef-53f7-4542-b0cc-1bb02844df55)
 
@@ -126,7 +139,28 @@ print(y_prednew)
 ### Printing Y_prednew
 ![324681010-66ed7bc1-6b4b-4fea-a1e6-7bca7dad684b](https://github.com/gauthamkrishna7/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/141175025/b60bae34-0499-40b2-9318-cc634ed75dc3)
 
-
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 
 ## Result:
 Thus the program to implement the the Logistic Regression Using Gradient Descent is written and verified using python programming.
