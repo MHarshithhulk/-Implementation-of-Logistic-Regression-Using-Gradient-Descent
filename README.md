@@ -131,6 +131,10 @@ print(y_prednew)
 <br>
 <br>
 <br>
+<br>
+<br>
+<br>
+<br>
 
 ### Display dependent variable
 ![324680688-e7b177aa-1745-4be5-8193-8ffd8f529775](https://github.com/gauthamkrishna7/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/141175025/2b65a530-46a7-4bdb-b0c5-6c2bec37fe19)
@@ -146,16 +150,6 @@ print(y_prednew)
 ### Printing Y_prednew
 ![324681010-66ed7bc1-6b4b-4fea-a1e6-7bca7dad684b](https://github.com/gauthamkrishna7/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/141175025/b60bae34-0499-40b2-9318-cc634ed75dc3)
 
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
 <br>
 <br>
 <br>
