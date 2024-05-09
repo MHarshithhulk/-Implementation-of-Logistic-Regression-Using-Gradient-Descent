@@ -101,32 +101,31 @@ print(y_prednew)
 
 ## Output:
 
-### Dataset
-<img width="1093" alt="Screenshot 2024-04-23 at 9 23 23 AM" src="https://github.com/gauthamkrishna7/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/141175025/58af8fc6-877e-4c18-881c-c886b50e8368">
+### Read the file and display
 
-### Dataset.dtyes
-<img width="1093" alt="Screenshot 2024-04-23 at 9 23 50 AM" src="https://github.com/gauthamkrishna7/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/141175025/a2c10f53-9f25-4873-bdac-dbb0518454a6">
+![324679994-1f016359-1822-4e61-a4bd-2e42b29b2193](https://github.com/gauthamkrishna7/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/141175025/8460f007-dd72-418a-a1a4-89e7c352c482)
 
-### Datset cat.codes
-<img width="1101" alt="Screenshot 2024-04-23 at 9 24 11 AM" src="https://github.com/gauthamkrishna7/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/141175025/e3cd985c-dbfa-497e-8dfd-7d9346601861">
+### Categorizing columns
+![324680196-803932f9-6766-466c-b982-4a5d4a7f8116](https://github.com/gauthamkrishna7/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/141175025/c3b56cef-53f7-4542-b0cc-1bb02844df55)
 
-### Y
-<img width="1101" alt="Screenshot 2024-04-23 at 9 24 31 AM" src="https://github.com/gauthamkrishna7/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/141175025/ad8b7cd1-d811-4655-97d4-708248fd5206">
+
+### Labelling columns and displaying dataset
+![324680578-3652a512-7da7-424c-9669-89e9451fbdcd](https://github.com/gauthamkrishna7/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/141175025/e0c05953-83f6-49f7-96b9-95a4a128e9ea)
+
+### Display dependent variable
+![324680688-e7b177aa-1745-4be5-8193-8ffd8f529775](https://github.com/gauthamkrishna7/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/141175025/2b65a530-46a7-4bdb-b0c5-6c2bec37fe19)
 
 ### Accuracy
-<img width="1101" alt="Screenshot 2024-04-23 at 9 26 16 AM" src="https://github.com/gauthamkrishna7/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/141175025/9d49c71e-ce5a-48bd-9ae9-aee5e2b658e8">
+![324680804-98088e79-96c4-4b0c-a6fe-9375a8f80849](https://github.com/gauthamkrishna7/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/141175025/a05d9cb7-87e2-4d7b-a2fd-360516088c97)
 
-### Y_pred
-<img width="1101" alt="Screenshot 2024-04-23 at 9 26 30 AM" src="https://github.com/gauthamkrishna7/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/141175025/7f2bcfec-cbac-4a64-927c-cba98033ed1d">
 
-### Y
-<img width="1101" alt="Screenshot 2024-04-23 at 9 26 43 AM" src="https://github.com/gauthamkrishna7/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/141175025/ddbcc6fa-1577-4f34-8347-c9a384fb81d3">
+### Printing Y
+![324680946-4ad464f1-fd31-45c4-8b6e-200e80a56472](https://github.com/gauthamkrishna7/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/141175025/d31f65bb-d26a-4dfd-894a-faed352f8474)
 
-### Y_prednew for input 1
-<img width="1101" alt="Screenshot 2024-04-23 at 9 26 57 AM" src="https://github.com/gauthamkrishna7/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/141175025/bfc24a6c-03e7-4dbb-b67b-166422e4719a">
 
-### Y_prednew for input 2
-<img width="1101" alt="Screenshot 2024-04-23 at 9 26 57 AM" src="https://github.com/gauthamkrishna7/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/141175025/50efa5d7-e17a-49d1-9018-677aad6b2067">
+### Printing Y_prednew
+![324681010-66ed7bc1-6b4b-4fea-a1e6-7bca7dad684b](https://github.com/gauthamkrishna7/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/141175025/b60bae34-0499-40b2-9318-cc634ed75dc3)
+
 
 
 ## Result:
